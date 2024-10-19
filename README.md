@@ -8,7 +8,7 @@ Experimenting new techniques to develop my apps and solutions.
  
 ## Important Conquest
 
-On 10/18/2024, in partnership with brunohreis, I completed, by the grace of God, my first deployment, which was developed as part of the practical work for the subject of Statistics and Probability belonging to the Degree in Computer Engineering at PUC Minas - Coração Eucarístico.
+On 10/18/2024, in partnership with [Bruno Henrique Reis Almeida](https://github.com/brunohreis), I completed, by the grace of God, my first deployment, which was developed as part of the practical work for the subject of Statistics and Probability belonging to the Degree in Computer Engineering at PUC Minas - Coração Eucarístico.
 
 If you want to know more about it, access the link below:
 
