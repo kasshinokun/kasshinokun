@@ -21,6 +21,12 @@ If you want to know more about it, access the link below:
 
 [Practical Work](https://tp-estatistica.streamlit.app/)
 
+### Deployed Projects and Tests
+
+[2025-14-03 Calculator and Converter](https://calculator-app-mi4ko.streamlit.app/)
+
+Partnership: [Michiko Shindou](https://github.com/mi4ko/mi4ko)
+
 ###
 
 <div align="left">
